@@ -8,7 +8,7 @@ We trained and tested our models on the data set from the [Kaggle Facial Express
  Image set of 35,887 examples, with training-set : dev-set: test-set as <strong> 80 : 10 : 10 </strong>.
 
 ## Dependencies
- Python 2.7, sklearn, numpy, Keras.
+ Python 2.7, sklearn, numpy, Keras, opencv, pandas, tensorflow.
 
 ## Library Used:
   <ul>
